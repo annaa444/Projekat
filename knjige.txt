@@ -1,0 +1,6 @@
+2|Kockar|ff21|Dostojevski|Vulkan|455|2012|333.33|klasik|0
+1|Idiot|3r4t|Dostojevski|Laguna|367|2007|955.99|klasik|0
+3|Ana Karenjina|211|Tolstoj|Klet|222|2001|1212.99|klasik|0
+4|Gorski Venac|eer1|Njegos|Prosveta|127|2010|200.0|klasik|0
+8877|Koreni|ss22|Cosic|Vulkan|872|2020|1099.99|roman|0
+121|Vreme smrti|22fdd|Dobrica Cosic|Laguna|1000|2020|2000.0|roman|0

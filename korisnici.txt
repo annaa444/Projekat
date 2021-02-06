@@ -1,0 +1,4 @@
+Menadzer|menadzer2|menadzer2|Bojan|Maljenic
+Menadzer|menadzer1|menadzer1|Bojan|Savic
+Administrator|admin1|admin1|Dragan|Vujacic
+Prodavac|pera|pera021|Petar|Peric
